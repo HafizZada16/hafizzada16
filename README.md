@@ -1,50 +1,40 @@
-# hafizzada16
+# Hi there, I'm Hafiz Zada 👋
 
-> Memorable developer positioning.
+> Full-Stack Engineer | Building scalable web apps and developer tools.
 
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+---
 
-Hi, I'm **hafizzada16**. This README is tuned for **personal brand** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=hafizzada16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=hafizzada16&theme=github-dark" alt="hafizzada16 hero section" />
-  </picture>
-</p>
+### 🚀 About Me
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=hafizzada16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=hafizzada16&theme=github-dark" alt="hafizzada16 about section" />
-  </picture>
-</p>
+- 💻 Passionate about crafting performant frontend experiences and resilient backend systems.
+- 🛠️ Currently exploring modern web architectures and agentic workflows.
+- 🌱 Always experimenting with new tools, open-source projects, and best engineering practices.
+- 💬 Ask me about web development, APIs, and modern toolchains.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=hafizzada16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=hafizzada16&theme=github-dark" alt="hafizzada16 stack section" />
-  </picture>
-</p>
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=hafizzada16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=hafizzada16&theme=github-dark" alt="hafizzada16 stats section" />
-  </picture>
-</p>
+### 🛠️ Tech & Tools
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=hafizzada16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=hafizzada16&theme=github-dark" alt="hafizzada16 projects section" />
-  </picture>
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express, REST APIs |
+| **Database & Tools** | Git, GitHub, VS Code, Postman |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=hafizzada16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=hafizzada16&theme=github-dark" alt="hafizzada16 social section" />
-  </picture>
-</p>
+---
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafizZada16/hafizzada16/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HafizZada16/hafizzada16/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HafizZada16/hafizzada16/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+### 📬 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com)
+- 🌐 [Portfolio](https://github.com/HafizZada16)
+- ✉️ [Email](mailto:your-email@example.com)
