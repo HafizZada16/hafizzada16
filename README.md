@@ -1,4 +1,4 @@
-# Hi there, I'm Hafiz Zada 👋
+# Hi there, I'm Hafiz 👋
 
 > Full-Stack Engineer | Building scalable web apps and developer tools.
 
@@ -32,9 +32,3 @@
 </picture>
 
 ---
-
-### 📬 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com)
-- 🌐 [Portfolio](https://github.com/HafizZada16)
-- ✉️ [Email](mailto:your-email@example.com)
